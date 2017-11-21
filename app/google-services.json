@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "752742774286",
+    "firebase_url": "https://my-project-1497952413475.firebaseio.com",
+    "project_id": "my-project-1497952413475",
+    "storage_bucket": "my-project-1497952413475.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752742774286:android:8f08c1b44955334f",
+        "android_client_info": {
+          "package_name": "com.example.emyeraky.chatmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752742774286-21leev3r7anv9jk4iabe0ie7j6rp1rsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.emyeraky.chatmessage",
+            "certificate_hash": "760417409b36b2f3b184c79c572b35fd7a97ca1f"
+          }
+        },
+        {
+          "client_id": "752742774286-6ig6evn8no55jophev2ecd7ij18vjpve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPAt6fUCgPSM_8LDSKZQ892csANjV4qMI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752742774286-6ig6evn8no55jophev2ecd7ij18vjpve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ChatMessage</string>
+    <string name="send_button_label">send</string>
+    <string name="sign_out">sign_out</string>
+    <string name="hint_name">name</string>
+    <string name="hint_Email">E-mail</string>
+    <string name="hint_Pass">enter pass</string>
+    <string name="buttontext">Create New Account</string>
+    <string name="To_signin">Already Member?Login</string>
+    <string name="login">Login</string>
+    <string name="ForgetPass">Forget Password</string>
+    <string name="No_account_yetCreate_one">No account_yetCreate</string>
+    ///////////////////////////////////
+    <string name="text_dont_have_account">Don\'t have an account?</string>
+    <string name="text_already_have_account">Already have an account?</string>
+    <string name="button_create_account">Sign Up</string>
+    <string name="button_sign_in">Sign In</string>
+    <string name="button_signin_with_google">SIGN IN WITH GOOGLE</string>
+    <string name="button_signin_with_password">SIGN IN</string>
+    <string name="hint_enter_email">Enter your email</string>
+    <string name="hint_enter_username">Enter your name</string>
+    <string name="hint_enter_password">Enter password</string>
+    <string name="image_view_logo_image">Logo Image</string>
+    <string name="title_activity_create_account">Create Account</string>
+</resources>
